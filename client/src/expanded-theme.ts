@@ -1,4 +1,4 @@
-// eslint-disable-next-line
+/* eslint-disable-next-line @typescript-eslint/no-unused-vars */
 import { Palette, PaletteColor} from "@mui/material/styles/createPalette";
 
 declare module "@mui/material/styles/createPalette" {
@@ -9,5 +9,11 @@ declare module "@mui/material/styles/createPalette" {
     interface Palette {
         /* Extending Palette so tertiary can have color as well*/
         tertiary: PaletteColor;
+    }
+}
+
+declare module "@mui/material/styles" {
+    interface TypeBackground {
+      light: string;
     }
 }
