@@ -2,7 +2,7 @@
 
 This project was created using the (MongoDB, Express, React, Node.js)MERN Stack and deployed using Vercel. It is my first project creating a full-stack application using React. I followed and learned from an in-depth tutorial provided down below.
 
-![demo](https://raw.githubusercontent.com/bryant-lam/finance-app/finanseer-demo.png)
+![demo](https://raw.githubusercontent.com/bryant-lam/finance-app/finanseer_demo.png)
 
 ## Technologies Used
 
