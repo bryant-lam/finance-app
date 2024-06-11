@@ -1,4 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import "@mui/material/styles/createPalette";
 import "@mui/material/styles";
 
